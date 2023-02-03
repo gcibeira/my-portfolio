@@ -1008,9 +1008,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   width: 100%;
 }
 
-.landing-page .parallax .parallax-image img.phone{
-  width: 80%;
-  float: right;
+.landing-page .parallax .parallax-image img.profile{
+  width: 150%;
+  float: left;
 }
 
 .landing-page .parallax .parallax-background img.flipped{
